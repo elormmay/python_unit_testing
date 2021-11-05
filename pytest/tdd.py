@@ -1,4 +1,4 @@
-"""Functions are written after tests failed, so they pass to pass"""
+"""Functions are written after tests failed, so they pass"""
 
 
 def add(a, b):
